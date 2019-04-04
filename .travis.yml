@@ -7,5 +7,5 @@ script:
  — bundle exec rake db:migrate
  — bundle exec rspec
 before_install:
- — gem update --system
- — gem install bundle
+ - gem update --system
+ - gem install bundle
