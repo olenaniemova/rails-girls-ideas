@@ -16,6 +16,7 @@ gem 'devise'
 gem 'activeadmin'
 gem 'inherited_resources'
 gem 'gravtastic'
+gem 'travis'
 # Use carrierwave as file loader
 gem 'carrierwave'
 gem 'mini_magick', '3.8.0'
