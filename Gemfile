@@ -13,6 +13,8 @@ group :production do
   gem 'pg'
 end
 gem 'devise'
+gem 'activeadmin'
+gem 'inherited_resources'
 gem 'gravtastic'
 # Use carrierwave as file loader
 gem 'carrierwave'

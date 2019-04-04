@@ -1,4 +1,4 @@
-body { padding-top: 60px; }
+body { padding-top: 80px; } //60
 footer { margin-top: 100px; }
 table, td, th { vertical-align: middle; border: none; }
 th { border-bottom: 1px solid #DDD; }
@@ -13,8 +13,9 @@ th { border-bottom: 1px solid #DDD; }
   background-color: transparent;
   text-decoration: none;
 }
-.navbar-text .pull-right img {
+p.nav img {
   width: 30px;
+  height: 30px;
 }
 
 footer {
